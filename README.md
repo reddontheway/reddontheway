@@ -65,7 +65,7 @@ When a web page is loaded, all the images remain hidden until they are found to 
 It is free and is currently supported on Google Chrome and is featured on the Chrome Webstore. We are working on porting this to Safari also (we need help!).
 </br>
 <p align="center">
-  <a href="https://chrome.google.com/webstore/detail/nsfw-filter/kmgagnlkckiamnenbpigfaljmanlbbhh" target="_blank">
+  <a href="https://chrome.google.com/webstore/detail/chatgpt-prompts-tool-prom/dafkkimnoemanmhikhkpbfaahfhjgdnb" target="_blank">
     <img src="./demo/images/chrome.gif" alt="Download now" width="160">
   </a>
 </p>
