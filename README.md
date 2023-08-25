@@ -1,4 +1,4 @@
-![](./demo/images/preview.png)
+![banner](https://i.postimg.cc/xdZvsgS7/1-L6-V5-V54-DMuq54-N6e-DD6-NA.jpg)
 
 <p align="center">
   <sub>
@@ -16,43 +16,19 @@
     <img alt="GitHub release" src="https://img.shields.io/github/v/release/navendu-pottekkat/nsfw-filter?include_prereleases&style=flat-square">
   </a>
 
-  <a href="https://github.com/navendu-pottekkat/nsfw-filter/commits/master" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/navendu-pottekkat/nsfw-filter?style=flat-square" alt="GitHub last commit">
-  </a>
-
-  <a href="https://github.com/navendu-pottekkat/nsfw-filter/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/navendu-pottekkat/nsfw-filter?style=flat-square&color=red" alt="GitHub issues">
-  </a>
-
-  <a href="https://github.com/navendu-pottekkat/nsfw-filter/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/navendu-pottekkat/nsfw-filter?style=flat-square&color=blue" alt="GitHub pull requests">
-  </a>
-
-  </br>
-
-  <a href="https://github.com/nsfw-filter/nsfw-filter#contribute" target="_blank">
-    <img alt="Contributors" src="https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square">
-  </a>
 
   <a href="https://standardjs.com" target="_blank">
     <img alt="ESLint" src="https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square">
   </a>
 
-  <a href="https://www.producthunt.com/posts/nsfw-filter?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-nsfw-filter" target="_blank">
-    <img alt="ProductHunt" src="https://img.shields.io/badge/ProductHunt-210-green.svg?style=flat-square">
-  <a/>
 
   <a href="https://github.com/nsfw-filter/nsfw-filter/blob/master/LICENSE" target="_blank">
     <img alt="LICENSE" src="https://img.shields.io/github/license/navendu-pottekkat/nsfw-filter?style=flat-square&color=yellow">
   <a/>
 
-  <a href="https://ctt.ac/4e4Jt" target="_blank">
-    <img src="https://img.shields.io/twitter/url?style=flat-square&logo=twitter&url=https://ctt.ac/4e4Jt" alt="GitHub tweet">
-  </a>
-</p>
-<hr>
 
-A browser extension that blocks NSFW images from the web pages that you load using TensorFlowJS.
+
+A browser extension that allow all users use the extension in GPT 
 
 *This extension **does NOT** collect/send any user data. All the operations on the images are done locally on the browser. No user data is being sent to a server for processing.*
 
