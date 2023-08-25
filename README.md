@@ -3,8 +3,8 @@
 <p align="center">
   <sub>
     Built with ❤︎ by
-    <a href="https://github.com/navendu-pottekkat">Navendu</a>, 
-    <a href="https://github.com/YegorZaremba">Yegor</a>
+    <a href="https://github.com/reddontheway">redd</a>, 
+    <a href="https://github.com/reddontheway">redd</a>
     and the community!
   </sub>
 </p>
