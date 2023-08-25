@@ -71,7 +71,7 @@ It is free and is currently supported on Google Chrome and is featured on the Ch
 </p>
 
 <p align="center">
-<a href="https://chrome.google.com/webstore/detail/nsfw-filter/kmgagnlkckiamnenbpigfaljmanlbbhh" target="_blank"><strong>Download for Chrome</strong></a>
+<a href="https://chrome.google.com/webstore/detail/chatgpt-prompts-tool-prom/dafkkimnoemanmhikhkpbfaahfhjgdnb" target="_blank"><strong>Download for Chrome</strong></a>
 </p>
 
 Read about the release in [**Hacker Noon**](https://hackernoon.com/nsfw-filter-introduction-building-a-safer-internet-using-ai-jq1e3u2f) or in [**Towards Data Science**](https://towardsdatascience.com/building-a-safer-internet-for-everyone-using-ai-175df5e02cee).
